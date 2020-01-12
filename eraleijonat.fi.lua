@@ -10,4 +10,5 @@ mx(_a, "alt1.aspmx.l.google.com", 5)
 mx(_a, "alt2.aspmx.l.google.com", 5)
 mx(_a, "alt3.aspmx.l.google.com", 10)
 mx(_a, "alt4.aspmx.l.google.com", 10)
+cname("_0ac99ef03fafa2a8f7c4b96fa9d4dbd9.kulu.eraleijonat.fi.", "_1d1157e7305310dbadf7c7a554052524.mzlfeqexyx.acm-validations.aws.")
 
